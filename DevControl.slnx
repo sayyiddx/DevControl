@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DevControl/DevControl.csproj" Id="ad1db0f9-e084-4147-b801-17bb8dc3f4fa" />
+  </Folder>
+  <Project Path="Demo/Demo.csproj" Id="7188f617-dbc8-47a3-b0c9-27f5090c5882" />
+</Solution>

@@ -1,0 +1,45 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--color principal-->
+    <Color x:Key="PrimaryColor">#EE796F</Color>
+
+    <!--color de fuente-->
+    <Color x:Key="NormalForegroundColor">#000000</Color>
+    <Color x:Key="MouseOverForegroundColor">#FFFFFF</Color>
+    <Color x:Key="PressedForegroundColor">#000000</Color>
+    <Color x:Key="SelectedForegroundColor">#FFFFFF</Color>
+    <Color x:Key="HighlightForegroundColor">#FFFFFF</Color>
+    <Color x:Key="DisabledForegroundColor">#000000</Color>
+    <Color x:Key="InputHintForegroundColor">#000000</Color>
+    <Color x:Key="TooltipForegroundColor">#70FFFFFF</Color>
+
+    <!--Color del icono-->
+    <Color x:Key="NormalPathColor">#EE796F</Color>
+    <Color x:Key="MouseOverPathColor">#EE796F</Color>
+    <Color x:Key="PressedPathColor">#EE796F</Color>
+    <Color x:Key="SelectedPathColor">#EE796F</Color>
+    <Color x:Key="DisabledPathColor">#EE796F</Color>
+    <Color x:Key="PlaceHolderPathColor">#EE796F</Color>
+    <Color x:Key="NormalPathBackgroundColor">#EE796F</Color>
+
+    <!--Color del borde-->
+    <Color x:Key="NormalBorderColor">#E6E6E6</Color>
+    <Color x:Key="MouseOverBorderColor">#FFE6E6E6</Color>
+    <Color x:Key="PressedBorderColor">#80000000</Color>
+    <Color x:Key="SelectedBorderColor">#70000000</Color>
+    <Color x:Key="DisabledBorderColor">#70000000</Color>
+    <Color x:Key="PanelBorderColor">#E6E6E6</Color>
+
+    <!--color de fondo-->
+    <Color x:Key="NormalBackgroundColor">#FFFFFF</Color>
+    <Color x:Key="MouseOverBackgroundColor">#EA9590</Color>
+    <Color x:Key="PressedBackgroundColor">#8FFFFFF0</Color>
+    <Color x:Key="SelectedBackgroundColor">#EE796F</Color>
+    <Color x:Key="PanelBackgroundColor">#FFFFFF</Color>
+    <Color x:Key="HighlightBackgroundColor">#EA9590</Color>
+    <Color x:Key="AlternationIndex0Color">#7FFFFFF0</Color>
+    <Color x:Key="AlternationIndex1Color">#7FFFFFF0</Color>
+    <Color x:Key="DisabledBackgroundColor">#7FFFFFF0</Color>
+    <Color x:Key="WindowBackgroundColor">#FCFCFC</Color>
+    <Color x:Key="MosaicColor">#EE796F</Color>
+</ResourceDictionary>

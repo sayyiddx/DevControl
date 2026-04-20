@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows</TargetFramework>
+	  <UseWPF>true</UseWPF>
+	  <UseWindowsForms>true</UseWindowsForms>
+	  <!--
+	  <Nullable>enable</Nullable>
+	  -->
+	  <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+	  <Version>1.0.0.0</Version>
+	  <AssemblyVersion>1.0.0.0</AssemblyVersion>
+	  <FileVersion>1.0.0.0</FileVersion>
+	  <Authors>DevControl</Authors>
+	  <Company>DevControl</Company>
+	  <Description>Custom WPF Metro Window Control</Description>
+	  <PackageId>DevControl</PackageId> 
+	  
+	  <Platforms>AnyCPU;x64</Platforms>
+	  <Copyright>DevControl</Copyright>
+	  <PackageTags>WPF UI</PackageTags>
+	  <PackageReleaseNotes>Optimización de detalles de control</PackageReleaseNotes>
+	  <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\logo.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\logo.ico" />
+  </ItemGroup>
+
+</Project>
